@@ -3,3 +3,4 @@ include LICENSE.txt
 include README.txt
 include client.py
 include lists.py
+include setup.py
