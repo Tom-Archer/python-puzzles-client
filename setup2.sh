@@ -8,3 +8,5 @@ git clone https://github.com/Tom-Archer/python-puzzles-client.git
 cd /home/pi/Python/python-puzzles-client/library
 sudo python2.7 setup.py install
 sudo rm -rf /home/pi/Python/python-puzzles-client/
+
+echo "Done!"
