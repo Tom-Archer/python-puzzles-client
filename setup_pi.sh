@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Setting up Masterclass Raspberry Pi."
+mkdir /home/pi/Desktop/Masterclass 
 
 echo "Downloading Python Puzzles Client Software"
 mkdir /home/pi/Python
